@@ -48,6 +48,8 @@ Advanced sentiment analysis,
 Model retraining pipeline,
 Searching for better model using GridSearchCV.
 
+ML-model .pkl and .parquet(dataframe) are created with the first run of the main.py.
+
 # Author Erick
 Data analysis and machine learning portfolio project
 Focus areas: 
