@@ -1,5 +1,5 @@
 # Steam-reviews-analysis-automatic-pipeline
-# Automatic pipeline Steam review analysis pipeline system.
+# Automatic Steam review analysis pipeline system.
 
 The project automatically: 
 1. Downloads reviews from Steam using Steam Reviews API
