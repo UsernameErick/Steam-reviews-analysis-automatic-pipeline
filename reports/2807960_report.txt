@@ -1,0 +1,8 @@
+AppID: 2807960
+Reviews: 2992
+Positive:
+ 63.8%
+Negative:
+ 36.2%
+Average Playtime: 148.31 hours
+Average model Confidence: 0.68
