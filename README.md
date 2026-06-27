@@ -24,17 +24,17 @@ Example usage:
 I used Battlefield 6 for an example.
 Input:
 Run analyze_game.py and paste the link you need,
-https://store.steampowered.com/app/2807960/Battlefield_6/
-Output:
-AppID: 2807960
-Reviews: 2992
-Positive: 63.8%
-Negative: 36.2%
-Average Playtime: 148.21 hours
+https://store.steampowered.com/app/2807960/Battlefield_6/  
+Output:  
+AppID: 2807960  
+Reviews: 2992  
+Positive: 63.8%  
+Negative: 36.2%  
+Average Playtime: 148.21 hours  
 Average Model Confidence: 0.68
 
 You also may start the project running main.py file.
-That will lead you to more detailed analysis, such as:
+That will lead you to more detailed analysis, such as:  
 Classification report, top positive/negative words,
 the most crucial positive/negative features,
 model's prediction errors.
@@ -42,10 +42,10 @@ model's prediction errors.
 The project showed a fairly accurate result when compared to 
 the actual ratio of positive to negative in Steam.
 
-Future improvements: 
-Multilingual training,
-Advanced sentiment analysis,
-Model retraining pipeline,
+Future improvements:   
+Multilingual training,  
+Advanced sentiment analysis,   
+Model retraining pipeline,  
 Searching for better model using GridSearchCV.
 
 ML-model .pkl and .parquet(dataframe) are created with the first run of the main.py.
