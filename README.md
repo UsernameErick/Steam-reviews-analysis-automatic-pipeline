@@ -21,8 +21,7 @@ Machine Learning pipeline:
 7. Report generation
 
 Example usage:  
-I used Battlefield 6 for an example.
-
+I used Battlefield 6 for an example.  
 Input:  
 Run analyze_game.py and paste the link you need,
 https://store.steampowered.com/app/2807960/Battlefield_6/
@@ -53,9 +52,9 @@ Searching for better model using GridSearchCV.
 ML-model .pkl and .parquet(dataframe) are created with the first run of the main.py.
 
 # Author Erick
-Data analysis and machine learning portfolio project
-Focus areas: 
--Data analysis
--Python automation pipeline
--Machine learning
+Data analysis and machine learning portfolio project  
+Focus areas:  
+-Data analysis  
+-Python automation pipeline  
+-Machine learning  
 -NLP
