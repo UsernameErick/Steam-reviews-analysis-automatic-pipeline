@@ -20,16 +20,14 @@ Machine Learning pipeline:
 6. Prediction
 7. Report generation
 
-Example usage:
-
+Example usage:  
 I used Battlefield 6 for an example.
-Input:
 
+Input:  
 Run analyze_game.py and paste the link you need,
 https://store.steampowered.com/app/2807960/Battlefield_6/
 
-Output:
-
+Output:  
 AppID: 2807960  
 Reviews: 2992  
 Positive: 63.8%  
@@ -46,8 +44,7 @@ model's prediction errors.
 The project showed a fairly accurate result when compared to 
 the actual ratio of positive to negative in Steam.
 
-Future improvements:
-
+Future improvements:  
 Multilingual training,  
 Advanced sentiment analysis,   
 Model retraining pipeline,  
